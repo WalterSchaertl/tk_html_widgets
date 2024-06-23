@@ -3,11 +3,9 @@ tkinter HTML text widgets
 """
 import sys
 import tkinter as tk
-from tkinter import scrolledtext
-from tkinter import font
 from tk_html_widgets import html_parser
 
-VERSION = "0.4.0"
+VERSION = "0.4.1"
 
 class _ScrolledText(tk.Text):
     #----------------------------------------------------------------------------------------------
@@ -21,7 +19,7 @@ class _ScrolledText(tk.Text):
 
         tk.Text.__init__(self, self.frame, **kw)
         self.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
-        
+
         text_meths = vars(tk.Text).keys()
         methods = vars(tk.Pack).keys() | vars(tk.Grid).keys() | vars(tk.Place).keys()
         methods = methods.difference(text_meths)
@@ -115,13 +113,13 @@ class HTMLLabel(HTMLText):
                 self.config(background='SystemButtonFace')
             else:
                 self.config(background='#d9d9d9')
-                
+
         if not 'borderwidth' in kwargs.keys():
             self.config(borderwidth=0)
 
         if not 'padx' in kwargs.keys():
             self.config(padx=3)
-        
+
     def set_html(self, *args, **kwargs):
         #------------------------------------------------------------------------------------------
         super().set_html(*args, **kwargs)

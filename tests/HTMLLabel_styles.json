@@ -7,13 +7,14 @@
             "background": "blue",
             "foreground": "yellow",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "1.8",
         "font": {
             "family": "impact",
             "overstrike": false,
-            "size": 13,
+            "size": 21,
             "slant": "roman",
             "underline": true,
             "weight": "normal"
@@ -28,13 +29,14 @@
             "background": "blue",
             "foreground": "yellow",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "1.29",
         "font": {
             "family": "impact",
             "overstrike": false,
-            "size": 13,
+            "size": 21,
             "slant": "roman",
             "underline": false,
             "weight": "bold"
@@ -49,13 +51,14 @@
             "background": "blue",
             "foreground": "yellow",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "1.37",
         "font": {
             "family": "impact",
             "overstrike": false,
-            "size": 13,
+            "size": 21,
             "slant": "italic",
             "underline": true,
             "weight": "normal"
@@ -70,13 +73,14 @@
             "background": "blue",
             "foreground": "yellow",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "1.46",
         "font": {
             "family": "impact",
             "overstrike": false,
-            "size": 13,
+            "size": 21,
             "slant": "italic",
             "underline": true,
             "weight": "normal"
@@ -91,13 +95,14 @@
             "background": "blue",
             "foreground": "yellow",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "1.54",
         "font": {
             "family": "impact",
             "overstrike": false,
-            "size": 13,
+            "size": 21,
             "slant": "roman",
             "underline": true,
             "weight": "normal"
@@ -112,13 +117,14 @@
             "background": "blue",
             "foreground": "yellow",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "1.65",
         "font": {
             "family": "impact",
             "overstrike": false,
-            "size": 13,
+            "size": 21,
             "slant": "roman",
             "underline": true,
             "weight": "normal"
@@ -133,13 +139,14 @@
             "background": "blue",
             "foreground": "yellow",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "1.76",
         "font": {
             "family": "impact",
             "overstrike": false,
-            "size": 13,
+            "size": 21,
             "slant": "roman",
             "underline": true,
             "weight": "normal"
@@ -154,13 +161,14 @@
             "background": "SystemButtonFace",
             "foreground": "black",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "2.0",
         "font": {
             "family": "Segoe ui",
             "overstrike": false,
-            "size": 9,
+            "size": 14,
             "slant": "roman",
             "underline": false,
             "weight": "normal"
@@ -175,13 +183,14 @@
             "background": "blue",
             "foreground": "yellow",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "1.16",
         "font": {
             "family": "impact",
             "overstrike": false,
-            "size": 13,
+            "size": 21,
             "slant": "roman",
             "underline": true,
             "weight": "bold"
@@ -196,13 +205,14 @@
             "background": "blue",
             "foreground": "yellow",
             "justify": "center",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "11.0",
         "font": {
             "family": "impact",
             "overstrike": false,
-            "size": 13,
+            "size": 21,
             "slant": "roman",
             "underline": true,
             "weight": "bold"
@@ -217,13 +227,14 @@
             "background": "SystemButtonFace",
             "foreground": "black",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "12.0",
         "font": {
             "family": "Segoe ui",
             "overstrike": false,
-            "size": 9,
+            "size": 14,
             "slant": "roman",
             "underline": false,
             "weight": "normal"
@@ -238,13 +249,14 @@
             "background": "blue",
             "foreground": "yellow",
             "justify": "center",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "13.0",
         "font": {
             "family": "impact",
             "overstrike": false,
-            "size": 13,
+            "size": 21,
             "slant": "roman",
             "underline": true,
             "weight": "bold"
@@ -259,13 +271,14 @@
             "background": "SystemButtonFace",
             "foreground": "black",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "14.0",
         "font": {
             "family": "Segoe ui",
             "overstrike": false,
-            "size": 9,
+            "size": 14,
             "slant": "roman",
             "underline": false,
             "weight": "normal"
@@ -280,13 +293,14 @@
             "background": "blue",
             "foreground": "yellow",
             "justify": "center",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "15.0",
         "font": {
             "family": "impact",
             "overstrike": false,
-            "size": 13,
+            "size": 21,
             "slant": "roman",
             "underline": true,
             "weight": "bold"
@@ -301,13 +315,14 @@
             "background": "SystemButtonFace",
             "foreground": "black",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "16.0",
         "font": {
             "family": "Segoe ui",
             "overstrike": false,
-            "size": 9,
+            "size": 14,
             "slant": "roman",
             "underline": false,
             "weight": "normal"
@@ -322,13 +337,14 @@
             "background": "blue",
             "foreground": "yellow",
             "justify": "center",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "17.0",
         "font": {
             "family": "impact",
             "overstrike": false,
-            "size": 13,
+            "size": 21,
             "slant": "roman",
             "underline": true,
             "weight": "bold"
@@ -343,13 +359,14 @@
             "background": "SystemButtonFace",
             "foreground": "black",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "18.0",
         "font": {
             "family": "Segoe ui",
             "overstrike": false,
-            "size": 9,
+            "size": 14,
             "slant": "roman",
             "underline": false,
             "weight": "normal"
@@ -364,13 +381,14 @@
             "background": "blue",
             "foreground": "yellow",
             "justify": "center",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "19.0",
         "font": {
             "family": "impact",
             "overstrike": false,
-            "size": 13,
+            "size": 21,
             "slant": "roman",
             "underline": true,
             "weight": "bold"
@@ -385,13 +403,14 @@
             "background": "SystemButtonFace",
             "foreground": "black",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "20.0",
         "font": {
             "family": "Segoe ui",
             "overstrike": false,
-            "size": 9,
+            "size": 14,
             "slant": "roman",
             "underline": false,
             "weight": "normal"
@@ -406,13 +425,14 @@
             "background": "blue",
             "foreground": "yellow",
             "justify": "center",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "3.0",
         "font": {
             "family": "impact",
             "overstrike": false,
-            "size": 13,
+            "size": 21,
             "slant": "roman",
             "underline": true,
             "weight": "normal"
@@ -427,13 +447,14 @@
             "background": "red",
             "foreground": "black",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "20.4",
         "font": {
             "family": "Segoe ui",
             "overstrike": false,
-            "size": 9,
+            "size": 14,
             "slant": "roman",
             "underline": false,
             "weight": "normal"
@@ -448,13 +469,14 @@
             "background": "yellow",
             "foreground": "black",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "20.17",
         "font": {
             "family": "Segoe ui",
             "overstrike": false,
-            "size": 9,
+            "size": 14,
             "slant": "roman",
             "underline": false,
             "weight": "normal"
@@ -469,13 +491,14 @@
             "background": "red",
             "foreground": "black",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "20.27",
         "font": {
             "family": "Segoe ui",
             "overstrike": false,
-            "size": 9,
+            "size": 14,
             "slant": "roman",
             "underline": false,
             "weight": "normal"
@@ -490,13 +513,14 @@
             "background": "SystemButtonFace",
             "foreground": "black",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "end",
         "font": {
             "family": "Segoe ui",
             "overstrike": false,
-            "size": 9,
+            "size": 14,
             "slant": "roman",
             "underline": false,
             "weight": "normal"
@@ -511,13 +535,14 @@
             "background": "green",
             "foreground": "black",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "20.10",
         "font": {
             "family": "Segoe ui",
             "overstrike": false,
-            "size": 9,
+            "size": 14,
             "slant": "roman",
             "underline": false,
             "weight": "normal"
@@ -532,13 +557,14 @@
             "background": "SystemButtonFace",
             "foreground": "black",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "4.0",
         "font": {
             "family": "Segoe ui",
             "overstrike": false,
-            "size": 9,
+            "size": 14,
             "slant": "roman",
             "underline": false,
             "weight": "normal"
@@ -553,13 +579,14 @@
             "background": "blue",
             "foreground": "yellow",
             "justify": "center",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "5.0",
         "font": {
             "family": "impact",
             "overstrike": false,
-            "size": 13,
+            "size": 21,
             "slant": "roman",
             "underline": true,
             "weight": "normal"
@@ -574,13 +601,14 @@
             "background": "SystemButtonFace",
             "foreground": "black",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "6.0",
         "font": {
             "family": "Segoe ui",
             "overstrike": false,
-            "size": 9,
+            "size": 14,
             "slant": "roman",
             "underline": false,
             "weight": "normal"
@@ -595,13 +623,14 @@
             "background": "blue",
             "foreground": "yellow",
             "justify": "center",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "7.0",
         "font": {
             "family": "impact",
             "overstrike": false,
-            "size": 13,
+            "size": 21,
             "slant": "roman",
             "underline": true,
             "weight": "normal"
@@ -616,13 +645,14 @@
             "background": "SystemButtonFace",
             "foreground": "black",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "8.0",
         "font": {
             "family": "Segoe ui",
             "overstrike": false,
-            "size": 9,
+            "size": 14,
             "slant": "roman",
             "underline": false,
             "weight": "normal"
@@ -637,13 +667,14 @@
             "background": "blue",
             "foreground": "yellow",
             "justify": "center",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "9.0",
         "font": {
             "family": "impact",
             "overstrike": false,
-            "size": 13,
+            "size": 21,
             "slant": "roman",
             "underline": true,
             "weight": "bold"
@@ -658,13 +689,14 @@
             "background": "SystemButtonFace",
             "foreground": "black",
             "justify": "left",
+            "offset": 0,
             "tabs": []
         },
         "end_index": "10.0",
         "font": {
             "family": "Segoe ui",
             "overstrike": false,
-            "size": 9,
+            "size": 14,
             "slant": "roman",
             "underline": false,
             "weight": "normal"

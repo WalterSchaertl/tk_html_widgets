@@ -76,6 +76,8 @@ span| style |
 strong| style | 
 u| style | 
 ul| style | bullet glyphs only
+sub | style |
+sup | style |
 
 ## Comparison chart
 In order to check the appearance of the HTML text displayed by the tk_html_widgets, I made some HTML templates and I compared the text displayed by the HTMLText widget with the text displayed by Firefox and the PyQt5 QTextBrowser widget.
